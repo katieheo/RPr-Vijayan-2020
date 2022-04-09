@@ -24,8 +24,7 @@ Vijayan et al. (2020) examined whether spatial patterns existed in SARS-CoV-2 ag
 
 > Link your reports, manuscripts, presentations, publication DOIs, preregistrations, etc. here. Delete this instruction and unused list items from your final repository. Adjust the file names and paths and add additional items as necessary.
 
-- Pre-analysis plan and study report: [docs/report/RP-Vijayan-Report.pdf](docs/report/RP-Vijayan-Report.pdf)
-- Manuscript: [docs/manuscript/manuscript.pdf](docs/manuscript/manuscript.pdf)
+- Pre-analysis plan and study report: [docs/report/RP-Vijayan-Report.pdf](docs/report/RP-Vijayan-Report.docx)
 
 ## Repository Contents
 
