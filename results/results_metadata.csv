@@ -1,1 +1,8 @@
 ﻿file_path,file_name,title,description,type,date
+figures,hex_position_error.png,,Position error of hexagons,png,
+figures,overlap.png,,Assesses percent of overlap of CSA and associated hexagons,png,
+maps,AdjustDiagRateClusters_fig1,Adjusted diagnosis rate clusters,Reproduction of figure 1 map,png,
+maps,AdjustPosRateClusters_fig1,Positivity rate clusters,Reproduction of figure 1 map,png,
+maps,AdjustTestRateClusters_fig1,Adjusted testing rate clusters,Reproduction of figure 1 map,png,
+tables,Table1_summarystats,,Reproduction of table 1 results,csv,
+tables,Table4_SLM_ATTR,,Reproduction of table 4 results,csv,
