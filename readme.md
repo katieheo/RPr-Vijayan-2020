@@ -1,28 +1,31 @@
-# Title of Study
+# Reproduction of Vijayan et al 2021 Beyond the 405 and the 5: Geographic Variations and Factors Associated With Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Positivity Rates in Los Angeles County
 
-This study is a reproduction/replication of:
+This is a reproduction study of:
 
-> Insert full citation to original study
+> Vijayan, T., M. Shin, P. C. Adamson, C. Harris, T. Seeman, K. C. Norris, and D. Goodman-Meza. 2020. Beyond the 405 and the 5: Geographic Variations and Factors Associated With Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Positivity Rates in Los Angeles County. Clinical Infectious Diseases 73 (9):e2970–e2975. DOI: [10.1093/cid/ciaa1692](https://doi.org/10.1093/cid/ciaa1692)
+
 
 ## Abstract
 
-> Briefly describe the study. If the study is a reproduction or replication, the full citation of the original study should be included here with digital object identifier (DOI) to the study and, if applicable, any preregistration, code or data repositories. Delete this instruction from the final repository.
+Vijayan et al. (2020) examined whether spatial patterns existed in SARS-CoV-2 age-adjusted testing rates, age-adjusted diagnosis rates, and crude positivity rates in Los Angeles County (LAC), and used a spatial regression model to explore associations between COVID-19 crude positivity rates and a series of predictor variables. The original analyses are retrospective and use observational data collected from federal and private sources. Although not publicly available, we were able to obtain the original study data after contacting the authors. However, the analysis code was not made available, nor was information about the computational environment used.
 
 ## Authors
 
-- First Name, Last Name
-- First Name, Last Name
+- Peter Kedron
+- Joseph Holler
+- Sarah Bardin
+- Joshua Gilman
+- Bryant Grady
+- Megan Seeley
+- Wenxin Wang
+- Xin Wang
 
 ## Repository Documents
 
 > Link your reports, manuscripts, presentations, publication DOIs, preregistrations, etc. here. Delete this instruction and unused list items from your final repository. Adjust the file names and paths and add additional items as necessary.
 
-- Preregistration: https://osf.io/my_study
-- Publication: https://doi.org/my_study
-- Pre-analysis plan: [docs/report/preanalysis.pdf](docs/report/preanalysis.pdf)
-- Study report: [docs/report/report.pdf](docs/report/report.pdf)
+- Pre-analysis plan and study report: [docs/report/RP-Vijayan-Report.pdf](docs/report/RP-Vijayan-Report.pdf)
 - Manuscript: [docs/manuscript/manuscript.pdf](docs/manuscript/manuscript.pdf)
-- Presentation: [docs/presentation/presentation.pdf](docs/presentation/presentation.pdf)
 
 ## Repository Contents
 
