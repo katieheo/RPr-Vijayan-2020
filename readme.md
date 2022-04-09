@@ -17,8 +17,8 @@ Vijayan et al. (2020) examined whether spatial patterns existed in SARS-CoV-2 ag
 - Joshua Gilman
 - Bryant Grady
 - Megan Seeley
-- Wenxin Wang
 - Xin Wang
+- Wenxin Yang
 
 ## Repository Documents
 
